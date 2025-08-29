@@ -16,3 +16,5 @@ var removeDuplicates = function(nums) {
 
     return x+1;
 };
+
+console.log(removeDuplicates([0,0, 1,2, 2, 3, 4, 4,]))

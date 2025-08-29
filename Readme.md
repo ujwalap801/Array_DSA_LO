@@ -15,3 +15,7 @@
 ## [Missing Numbers](https://leetcode.com/problems/missing-number/)
 
 ## [SingleNumber](https://leetcode.com/problems/single-number/)
+
+## [PlusOne](https://leetcode.com/problems/plus-one/?envType=problem-list-v2&envId=array)
+
+## [TwoSum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array)
