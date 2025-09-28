@@ -2,7 +2,8 @@ let  arr =['h', 'e','l','l','o'];
 
 function reverseArray(arr)
 {
-    let stack =[];
+    let stack =[];   
+    // Extra space -0(n)
 
     for(let i=0;i<arr.length;i++)
     {
