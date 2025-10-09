@@ -20,5 +20,8 @@
 
 ## [TwoSum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array)
 
-## [https://leetcode.com/problems/climbing-stairs/]
-## [Climb_Steps]()
+
+## [Climb_Steps](https://leetcode.com/problems/climbing-stairs/)
+
+
+## [Find_Missing_Postive](https://namastedev.com/practice/first-missing-positive)
