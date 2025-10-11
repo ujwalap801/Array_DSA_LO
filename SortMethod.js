@@ -22,7 +22,6 @@ console.log(mergedUnique); // [1, 2, 3, 5, 6]
 
 // A Set is a built-in JavaScript object that stores unique values only — it automatically removes duplicates.
 
-
 let arr = [1, 2, 2, 3, 3, 4];
 let uniqueSet = new Set(arr);
 console.log(uniqueSet); // Set(4) { 1, 2, 3, 4 }
