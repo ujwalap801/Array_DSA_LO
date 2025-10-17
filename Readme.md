@@ -13,6 +13,10 @@
 
 ## [Majority_Element](https://leetcode.com/problems/majority-element/description/)
 
+## [Max_SubArray_k](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+## [Max_SubArraySum](https://leetcode.com/problems/maximum-subarray/)
+
 ## [Missing Numbers](https://leetcode.com/problems/missing-number/)
 
 ## [Move_Zeros](https://leetcode.com/problems/move-zeroes/)
