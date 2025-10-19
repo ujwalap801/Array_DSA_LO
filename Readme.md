@@ -9,6 +9,8 @@
 
 ## [ExamFail]
 
+## [Find_Kth_Largest_Interger_Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)
+
 ## [Find_Missing_Postive](https://namastedev.com/practice/first-missing-positive)
 
 ## [Majority_Element](https://leetcode.com/problems/majority-element/description/)
