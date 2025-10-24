@@ -3,32 +3,30 @@
  * @param {string} b
  * @return {string}
  */
-var addBinary = function(a, b) {
-    
-    while(a.length < b.length) a= "0"+a;
-    while (b.length <a.length) b ="0"+b;
-let result ='';
-let carry =0;
+var addBinary = function (a, b) {
 
-for(let i=a.length-1 ;i>=0;i--)
-{
-    let bitA = Number(a[i]);
-    let bitB = Number(b[i]);
+    while (a.length < b.length) a = "0" + a;
+    while (b.length < a.length) b = "0" + b;
+    let result = '';
+    let carry = 0;
 
-    let sum = bitA+bitB+carry;
+    for (let i = a.length - 1; i >= 0; i--) {
+        let bitA = Number(a[i]);
+        let bitB = Number(b[i]);
 
-    let bit = sum %2;
+        let sum = bitA + bitB + carry;
 
-    carry = sum >=2 ?1:0;
+        let bit = sum % 2;
 
-    result =bit+result;
+        carry = sum >= 2 ? 1 : 0;
 
-}
+        result = bit + result;
 
-if(carry ===1)
-{
-    result ="1"+result
-}
-return result;
-    
+    }
+
+    if (carry === 1) {
+        result = "1" + result
+    }
+    return result;
+
 };
